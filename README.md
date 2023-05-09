@@ -19,17 +19,20 @@ When a person applies for a loan, there are two types of decisions that could be
  
 
 ## Table of Contents
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
+* Technologies and Librarries Used
+* Conclusions
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Higher debt to income ratio is likely to default. Its not safe to provide loans to these people
+- Higher loan term has more number of defaulters. So the risk increases
+- There is a co-relation between loan amunt, finded amount and funded amount by investor.
+- Number of loans increase each year. 
+- Higher the annual income, higher the loan amount given
+- Longer employee length and verified source is a must check to provide loans as employee length indicates stability and verfication decreases risks
+- Loans  provided to People with house mortage is safe as this invovles house as some gurantee for the lender.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
